@@ -9,9 +9,12 @@ const { Mqtt } = require("azure-iot-device-mqtt");
 
 // Array of connection strings for multiple devices
 const connectionStrings = [
-    "HostName=D7A4IHSI02.azure-devices.net;DeviceId=6654283414e2fe48c5c824a5;SharedAccessKey=laQS5um49Ea8jgJgu1LTjgKJfB/e8Eg+ZTE4SMYIntw=", // Device FZ A
-    "HostName=D7A4IHSI02.azure-devices.net;DeviceId=665427f514e2fe0ce5c8247b;SharedAccessKey=ZHPWEd21iGmjMXpDQ+8s/wuGJoXngPn2Sp8tRMJwv1Q=", // Device FZ B
-    "HostName=D7A4IHSI02.azure-devices.net;DeviceId=665428e114e2fe4612c8250e;SharedAccessKey=UCjFDthiXe3pCd4+79E1L8yDADcCkjHWCzpT1pxr2Mk=", // Device FZ C
+    "HostName=D7A4IHSI02.azure-devices.net;DeviceId=6654283414e2fe48c5c824a5;SharedAccessKey=laQS5um49Ea8jgJgu1LTjgKJfB/e8Eg+ZTE4SMYIntw=", // Device GH 
+    "HostName=D7A4IHSI02.azure-devices.net;DeviceId=665427f514e2fe0ce5c8247b;SharedAccessKey=ZHPWEd21iGmjMXpDQ+8s/wuGJoXngPn2Sp8tRMJwv1Q=", // Device GH 
+    "HostName=D7A4IHSI02.azure-devices.net;DeviceId=665428e114e2fe4612c8250e;SharedAccessKey=UCjFDthiXe3pCd4+79E1L8yDADcCkjHWCzpT1pxr2Mk=", // Device GH 
+    "HostName=D7A4IHSI02.azure-devices.net;DeviceId=660b874f3418af65fedd60c0;SharedAccessKey=Pu554PVhvT0t5ESO8mjjQa17qVLS3k/LQR2xDbSjLqU=", // Device FZ
+    "HostName=D7A4IHSI02.azure-devices.net;DeviceId=6654295b14e2fe6447c82554;SharedAccessKey=MPQOwEyflg9kQrMwJBmk37RH1AQ8YdJD0hNdb7UTjKo=", // Device FZ 
+    "HostName=D7A4IHSI02.azure-devices.net;DeviceId=665429d914e2fe2e04c825a1;SharedAccessKey=byTTIL3RaH7pnVaAgkHloY8aGuxVRxegK75vSPt0QRU=", // Device FZ 
     // Add more connection strings as needed
 ];
 
