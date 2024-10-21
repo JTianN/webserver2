@@ -15,6 +15,8 @@ const connectionStrings = [
     "HostName=D7A4IHSI02.azure-devices.net;DeviceId=660b874f3418af65fedd60c0;SharedAccessKey=Pu554PVhvT0t5ESO8mjjQa17qVLS3k/LQR2xDbSjLqU=", // Device FZ
     "HostName=D7A4IHSI02.azure-devices.net;DeviceId=6654295b14e2fe6447c82554;SharedAccessKey=MPQOwEyflg9kQrMwJBmk37RH1AQ8YdJD0hNdb7UTjKo=", // Device FZ 
     "HostName=D7A4IHSI02.azure-devices.net;DeviceId=665429d914e2fe2e04c825a1;SharedAccessKey=byTTIL3RaH7pnVaAgkHloY8aGuxVRxegK75vSPt0QRU=", // Device FZ 
+    "HostName=D7A4IHSI02.azure-devices.net;DeviceId=6553141a7559df351814c694;SharedAccessKey=FOPgTvqEA9N+PnHDKLBeU5CW9SIfhvIMbXZZ6O1UYNY=", // Device PFAL Rack
+    "HostName=D7A4IHSI02.azure-devices.net;DeviceId=653b32d6e9aaa8857e1985cb;SharedAccessKey=Py+PapwQOF+ahCilvVJ+6q5xfn8ytokC4U1y5IjpDyI=", // Device PFAL Room
     // Add more connection strings as needed
 ];
 
