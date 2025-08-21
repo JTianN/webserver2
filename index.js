@@ -18,6 +18,7 @@ const connectionStrings = [
     "HostName=D7A4IHSI02.azure-devices.net;DeviceId=6553141a7559df351814c694;SharedAccessKey=FOPgTvqEA9N+PnHDKLBeU5CW9SIfhvIMbXZZ6O1UYNY=", // Device PFAL Rack
     "HostName=D7A4IHSI02.azure-devices.net;DeviceId=653b32d6e9aaa8857e1985cb;SharedAccessKey=Py+PapwQOF+ahCilvVJ+6q5xfn8ytokC4U1y5IjpDyI=", // Device PFAL Room
     "HostName=D7A4IHSI02.azure-devices.net;DeviceId=679aeee24871ff788120fc00;SharedAccessKey=H6EAcnZWnDzKxNQWxVQvsrfhnUxoLYi5p1s9glsvuR8=", // Device Solar station Honey
+    "HostName=D7A4IHSI02.azure-devices.net;DeviceId=68a6927a716efecb6cb208f1;SharedAccessKey=6+543VFNO2sWsyu2+YZqFRjxm6VNKad9vlhouFwNe6E=", // DV Basic watering feature actuator log Test
     // Add more connection strings as needed
 ];
 
