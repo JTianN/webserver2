@@ -20,6 +20,7 @@ const connectionStrings = [
     "HostName=D7A4IHSI02.azure-devices.net;DeviceId=679aeee24871ff788120fc00;SharedAccessKey=H6EAcnZWnDzKxNQWxVQvsrfhnUxoLYi5p1s9glsvuR8=", // Device Solar station Honey
     "HostName=D7A4IHSI02.azure-devices.net;DeviceId=68a6927a716efecb6cb208f1;SharedAccessKey=6+543VFNO2sWsyu2+YZqFRjxm6VNKad9vlhouFwNe6E=", // DV Basic watering feature actuator log Test
     "HostName=D7A4IHSI02.azure-devices.net;DeviceId=687f49d7028a82f0208cb5eb;SharedAccessKey=XF6EbFo2e148sNaN/e93RAAuUgGEbmzIBULptNkGj/w=", // DV [Gable_] Watering
+    "HostName=D7A4IHSI02.azure-devices.net;DeviceId=68c7915e3085a793d0777cdd;SharedAccessKey=e78KP6+DwzwGG256FZn1EdvWOhdf02HOO1WLPK26dNQ=", // DV Basic Water Integration Testing
     // Add more connection strings as needed
 ];
 
